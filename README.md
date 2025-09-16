@@ -4,8 +4,9 @@
 
 This project is my tribute page submission for the SOC (School of Code).<br>
 The tribute project is to act as a resource for beginners to learn the Korean alphabet called "Hangeul" (also known as Hangul).
-Please feel free to view the live project website as it stands currently via this url: https://onessr.github.io/Learn-Hangeul/
+Please feel free to view the live project website as it stands currently via this url: [https://onessr.github.io/Learn-Hangeul/](https://kaisheng1207.github.io/fyp-project-full-website/)
 
 More details about the motivations for this project and the planning behind it will be updated via this README.md file.
 
 ---
+
